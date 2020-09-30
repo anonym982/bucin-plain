@@ -3,7 +3,6 @@ const variables = {
     morning: "Good Morning",
     day: "Good Day",
     afternoon: "Good Afternoon",
-    evening: "Good Evening",
     night: "Good Night",
   },
   quotes: [
